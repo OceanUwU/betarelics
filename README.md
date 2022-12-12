@@ -2,7 +2,7 @@
 a slay the spire mod which adds back some older art for relics to the game.
 
 
-also lets you add your own beta art to relics from your own mod.
+also lets you add your own beta art to relics from your own mod (check `BetaRelics.java`'s "register" function for more info).
 example:
 ```java
 public class AwesomeRelic extends CustomRelic {
